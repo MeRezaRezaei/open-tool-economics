@@ -24,3 +24,6 @@ This repo exists to put an answer into circulation. The answer, in one line:
 ## Contributing
 
 The doctrine is open (MIT). Contributions are welcome. As the doctrine itself says: if you depend on these tools, improving them is your own business — a better framework lifts every performance built on it.
+
+Three ways to act on the doctrine — take the pledge, propose a separation, or
+improve the representation. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
