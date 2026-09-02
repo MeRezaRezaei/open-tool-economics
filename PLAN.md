@@ -33,6 +33,7 @@ Complete (idea represented), including a complete causal loop:
 - `framework/08-license-enforcement.md` — how openness is made durable (the license = the enforcement mechanism).
 - `framework/09-fused-concerns.md` — full treatment of the hardest case: separating a tool fused into its performance.
 - `framework/10-glossary.md` — canonical definitions of core terms (the drift guard).
+- `framework/11-literature.md` — the doctrine's economic claims backed by DOI-verified scholarship (the standing/evidence layer).
 - `docs/plain-language.md` — the idea in plain words (the no-jargon front door).
 
 Representation hardening done so that a first-time reader is not misled:
@@ -46,6 +47,7 @@ Representation hardening done so that a first-time reader is not misled:
 - **Coverage:** all 24 raw sections represented. Sections 2, 8, 10, 11 promoted to `full` by this hardening pass.
 - **Definition consistency:** passed — no derived doc denies a glossary definition (tool vs performance conflation checked; none found).
 - **Front-door consistency:** passed — `docs/plain-language.md` and `MANIFESTO.md` tell the same story (same core claim, same money-gate idea).
+- **Literature foundation:** `framework/11-literature.md` added — maps the doctrine's economic claims (open-source incentives, why projects die, endogenous growth/diminishing-returns-as-signal, poverty traps, commons/free-riding, contestable monopoly) to DOI-verified scholarship. Verified via Crossref on 2026-09-02. Open-access status deliberately left undetermined (no API identity available); noted as a follow-up in the doc.
 - Sections 12, 13, 14 (Cross-Discipline Advantage, Vision/Role, Division of Labor) intentionally remain `partial` — user-domain framing, not a gap.
 
 ## Open questions to put to your brain

@@ -30,6 +30,10 @@ Separate the tool from the performance. **Keep tools open to everyone; charge on
 - [The Original Words](raw/VERBATIM-RAW.md) — the authoritative source, corrected only for spelling/grammar. This is the truth the vision is rebuilt from.
 - [The Idea](IDEA.md) — separation law, layers, incentives, vision.
 
+## Standing
+
+- [The Literature Foundation](framework/11-literature.md) — the doctrine backed by real, DOI-verified scholarship, claim by claim.
+
 ## The first move
 
 One person keeping the promise is already a working answer. Many people keeping it is the end of tool monopolies.

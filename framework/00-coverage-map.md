@@ -45,6 +45,10 @@ Three hardening gaps that the following tasks own:
 
 Sections 12, 13, 14 (Cross-Discipline Advantage, Vision/Role, Division of Labor) are flagged as `partial` — these are user-domain framing items, not representation gaps. They describe the author's role and do not require a dedicated framework doc.
 
+## Support layer
+
+Beyond the claim-by-claim homes above, `framework/11-literature.md` backs selected doctrine claims with verified academic literature (DOI-verified) separated by claim area. It is a support layer, not a representation home for any single raw section: it adds no doctrine, it only cites. Its purpose is to make the doctrine *standable* — arguable and defensible against the literatures it touches.
+
 ---
 
 ## Audit log
