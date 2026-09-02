@@ -73,6 +73,8 @@ A closed tool can't out-compete an open one over time:
 
 The open tool keeps evolving faster, so the closed tool loses value *without its owner even noticing why*.
 
+*A common pause: "if tools are free, why would anyone pay?"* Free tools are free *inputs* — they do not do the doing. The product, service, or delivered work still costs a performer's time and skill, and that is what people buy. Free tools make the doing cheaper and open; they do not make it free. This is why "tools are free" and "performance is paid" are not in tension: the value a customer pays for is the performed result, not access to the means.
+
 ---
 
 ## What this makes possible (the vision)
@@ -127,6 +129,14 @@ It is win-win and stable:
 - No one can control all tools; the tool is free to everyone, so helping costs you nothing.
 - A society that got the path gains nothing by closing its tools, because others do world-class work pushing the same frontier.
 - A private-tool monopolist is fragile: a tradable tool's input/output is public, so the moment it is seen and improved, the monopoly collapses overnight. **Openness is the only stable long-term strategy.**
+
+**One doctrine, two recipients** (this is the piece that stops a reader seeing a contradiction):
+- **To someone already performing**, open the finished tool free — they are building, so they already know its value; the open tool only makes their doing cheaper.
+- **To a society not yet building**, give the *path*, not the finished tool — only building teaches correct value; a free tool they did not earn would be misused.
+
+And the **on-ramp is not fragile**: every real society already stands inside the frontier the world keeps pushing and already receives its externality. Rising others returns surplus to the raiser's own frontier push, so the chain is a humanity-level compounding engine, not a lone-subsistence ladder.
+
+**Scope:** although the examples are software, the claim is not. A tool is anything that takes input and gives output and can be separated from the performance using it — DNA to databases to stone-and-wood. The same logic holds in every domain.
 
 Our only responsibility is to let people know it is possible.
 

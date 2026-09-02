@@ -10,6 +10,8 @@ This is the answer. Here is why it works, and here is how to act on it.
 
 **Tools are free and open to all. Performance — the doing, the using of tools to create value — is what people pay for.**
 
+*A note on scope.* The examples below are almost all software (MySQL, schemas, libraries) because the mind that found this is a software developer. The claim is not about software. A tool is anything that takes input and gives output and can be separated from the performance using it — DNA to databases to stone-and-wood implements. The same logic applies to every domain.
+
 ---
 
 ## Why the current world fails
@@ -37,6 +39,8 @@ Everything is layered. Every tool is itself built of tools, and is itself a tool
 
 Better tools → better performance → more income. Every performer therefore has a built-in reason to improve the shared tools. Free-riding is impossible to end-run: if one performer won't pay, the one beside them will. The tool evolves no matter what, monopolies cannot form, and projects stay alive *because* value flows to the doing.
 
+*A common pause: "if tools are free, why would anyone pay?"* Free tools are free *inputs* — they do not do the doing. The product, service, or delivered work still costs the performer's time and skill, and that is what people buy. Free tools make the doing cheaper and open; they do not make it free.
+
 ---
 
 ## What this changes
@@ -59,6 +63,12 @@ It is win-win, so no one is hurt by helping:
 - The society you gave the path gains nothing by closing its tools, because others are doing world-class work pushing the same frontier.
 - A private-tool monopolist is fragile: a tradable tool's input and output are public, so the moment someone sees it and improves it, the monopoly collapses overnight. **Closing tools guarantees you are outrun; openness is the only stable long-term strategy.**
 
+This is *not* the same move as opening a tool to an active performer. Two cases, one doctrine:
+- **To someone already performing**, give the finished tool free — they are building, so they already know its value; the open tool just makes their doing cheaper.
+- **To a society that has not yet built**, give the *path*, not the finished tool — only building teaches the value, and a free finished tool they did not earn would be misused.
+
+And the on-ramp is not fragile. Every real society already stands inside the frontier the world keeps pushing and already receives its externality; the big societies gain by raising others, because a society that develops doubles the force and pushes that frontier for everyone sooner. The chain is a humanity-level engine, not a lone-subsistence ladder.
+
 ## Diminishing returns is a signal, not a wall
 
 The standard story says technology hits diminishing returns and stalls. The truth you can observe in GNU/Linux — which ran brilliantly at first, then entered a trap when the *using side* outran the *tool quality* — is different:
@@ -78,6 +88,14 @@ A knife can murder or save a life. The tool is not the act. **The action someone
 > Input → Tool → Output — and the user is free not to know what happens inside.
 
 That is all a tool is. Anyone can build around that contract, and anyone who uses a tool to make a supply is the one most likely to spot its flaw — so the people who should improve it are exactly the ones the incentive model rewards.
+
+## Why this was found: an economist who writes software
+
+The doctrine connects economics to tooling. The two halves are normally lived by different people, and each half alone misses the connection:
+
+> "As an economist and software developer at the same time, I can find the gaps that developers might miss."
+
+Developers live inside tools but rarely price them as an economic system; economists live inside markets but rarely see how software tools are layered and fused. Seeing both at once is what lets the "tool vs performance" separation appear at all — the separation is an economic claim (what is monetized) and a software claim (what is extractable) at the same time. This is why the answer exists here rather than inside a single discipline.
 
 ---
 
