@@ -34,6 +34,10 @@ Separate the tool from the performance. **Keep tools open to everyone; charge on
 
 - [The Literature Foundation](framework/11-literature.md) — the doctrine backed by real, DOI-verified scholarship, claim by claim.
 
+## Proof
+
+- [The Separations Ledger](separations/00-index.md) — real tools found by applying the Separation Law, proof the method works.
+
 ## The first move
 
 One person keeping the promise is already a working answer. Many people keeping it is the end of tool monopolies.

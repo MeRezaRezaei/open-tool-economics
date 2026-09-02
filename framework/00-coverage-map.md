@@ -49,6 +49,12 @@ Sections 12, 13, 14 (Cross-Discipline Advantage, Vision/Role, Division of Labor)
 
 Beyond the claim-by-claim homes above, `framework/11-literature.md` backs selected doctrine claims with verified academic literature (DOI-verified) separated by claim area. It is a support layer, not a representation home for any single raw section: it adds no doctrine, it only cites. Its purpose is to make the doctrine *standable* — arguable and defensible against the literatures it touches.
 
+## Demonstration layer (2026-09-02)
+
+The `separations/` ledger applies the Separation Law (sections 8, 11) and the
+fused-concern method (section 8) to real recurring cases — proof the method works,
+not new doctrine. See `separations/00-index.md`.
+
 ---
 
 ## Audit log
