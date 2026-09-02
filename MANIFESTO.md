@@ -59,7 +59,7 @@ Better tools → better performance → more income. Every performer therefore h
 
 ## The first step you can take right now
 
-Take the Pledge → `PLEDGE.md`. It is one commitment:
+Take the Pledge → [PLEDGE.md](PLEDGE.md). It is one commitment:
 
 > **"The tools I make stay open. I charge only for performance."**
 
