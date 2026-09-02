@@ -9,7 +9,7 @@ This table maps each of the 24 headed sections in `raw/VERBATIM-RAW.md` (the sin
 | # | Raw Section | Home Doc(s) | Status |
 |---|------------|-------------|--------|
 | 1 | Core Thesis | [MANIFESTO.md](../MANIFESTO.md), [IDEA.md](../IDEA.md), [01-core-framework.md](01-core-framework.md), [04-game-theory.md](04-game-theory.md), [07-the-full-cycle.md](07-the-full-cycle.md) | full |
-| 2 | The Open Source License Advantage | [MANIFESTO.md](../MANIFESTO.md) (line 104, passing mention) | partial |
+| 2 | The Open Source License Advantage | [MANIFESTO.md](../MANIFESTO.md) (line 104, passing mention), [08-license-enforcement.md](08-license-enforcement.md) | full |
 | 3 | Why Open Source Projects Die | [MANIFESTO.md](../MANIFESTO.md), [IDEA.md](../IDEA.md), [04-game-theory.md](04-game-theory.md) | full |
 | 4 | The Monopoly Solution | [04-game-theory.md](04-game-theory.md), [IDEA.md](../IDEA.md), [MANIFESTO.md](../MANIFESTO.md) | full |
 | 5 | Beating Closed Source | [04-game-theory.md](04-game-theory.md), [IDEA.md](../IDEA.md) | full |

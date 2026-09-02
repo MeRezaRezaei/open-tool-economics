@@ -34,6 +34,8 @@ That is how you detect a *tool* in anything: it is whatever is additive and remo
 
 Everything is layered. Every tool is itself built of tools, and is itself a tool to the layer above. Because *every* layer can be opened, **no single owner can ever control the whole stack.** When a tool has mixed concerns, separate them — each separated concern becomes its own open layer, attachable and detachable on demand.
 
+> The openness is made durable by the license — a binding, permanent mechanism, not a promise. See `framework/08-license-enforcement.md`.
+
 **Law 3 — The Incentive Model (why it stays alive).**
 > Performance is paid, so performers fund the tools. If *they* don't, someone else will.
 
