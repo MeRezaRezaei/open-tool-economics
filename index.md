@@ -8,6 +8,8 @@
 
 Separate the tool from the performance. **Keep tools open to everyone; charge only for the doing.**
 
+> Don't want the theory first? Read the [plain-language version](docs/plain-language.md).
+
 ## The three laws
 
 1. **The Separation Law** — *remove it and the performance degrades; add it and the performance evolves.* That is how you detect a tool in anything.

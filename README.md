@@ -6,6 +6,7 @@ This repo exists to put an answer into circulation. The answer, in one line:
 
 ## Read first
 
+0. **`docs/plain-language.md`** — the idea in plain words (start here if you're new).
 1. **`MANIFESTO.md`** — the answer, why it works, and how to act on it (the front-end presentation).
 2. **`framework/07-the-full-cycle.md`** — the whole argument as one continuous loop, traced step by step.
 3. **`PLEDGE.md`** — the public commitment you can take.
