@@ -44,3 +44,9 @@ Three hardening gaps that the following tasks own:
 - **Gap C (Tasks 5, 6):** No verification layer or shared glossary exists to stop term drift across the ~120 uses of "performance" and other core terms. Definitions are used consistently today, but there is no oracle document that a consistency checker can reference. → Task 5 creates `framework/10-glossary.md`; Task 6 runs the consistency gate. Drift guard: see `framework/10-glossary.md` for canonical definitions.
 
 Sections 12, 13, 14 (Cross-Discipline Advantage, Vision/Role, Division of Labor) are flagged as `partial` — these are user-domain framing items, not representation gaps. They describe the author's role and do not require a dedicated framework doc.
+
+---
+
+## Audit log
+
+- **2026-09-02 (final gate):** Sections 2, 8, 10, 11 closed by Tasks 2–3 → `full`. Definition-consistency check passed (no doc denies a glossary definition). Front-door consistency passed (plain page and manifest tell the same story). Sections 12, 13, 14 intentionally remain `partial` — user-domain framing, not a gap; left for the user to decide scope/framing, deliberately NOT resolved by this plan.
