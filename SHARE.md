@@ -8,11 +8,30 @@ Ready-to-post text for sharing the answer. Use whichever fits your channel.
 
 > The tools should be free. The performance is what you charge for.
 >
-> This ends monopoly, keeps open projects alive, and moves competition from owning tools to doing with them.
->
-> It's a game-theoretic law: if one performer won't fund the shared tool, another will.
+> This ends monopoly, keeps open projects alive, and breaks the poverty trap — free tools cut the price of everything, and the shared tool pool lifts all nations at once.
 >
 > The Open Tools Doctrine: [link]
+
+---
+
+## Thread "The Poverty Angle" (5 posts)
+
+**1/**
+Why does poverty persist? Not from laziness — from a combination of problems, and the deepest one is *owning better tools*. Whoever holds the better tool holds a rent over everyone who needs it. That strand of the poverty trap is built on tool monopoly.
+
+**2/**
+The fix: make the tools free. The price of everything made with those tools falls — cheaper inputs, cheaper production, cheaper goods. Solve the *tool part* of the chain and you cut the monopoly strand of poverty.
+
+**3/**
+And because the tool pool is open to all nations at once, it's not one country escaping — the externality lifts every country. Improve the library under MySQL and user-management tools everywhere get better, without anyone touching them. Tools are made from other tools.
+
+**4/**
+Diminishing returns isn't the wall everyone thinks. Frictions are *caused by higher usage*. Solve the biggest friction → use gets cheaper → usage rises → a new friction surfaces. That cycle is growth. Diminishing returns is the compass for the next friction, not the frontier you can't cross.
+
+**5/**
+Open tools keep pushing that frontier outward forever, from the ground up. The poverty line falls and stays down, held by the externality of open-source tools. One person keeping tools open is a working answer; many is the end of tool monopolies.
+
+The Open Tools Doctrine: [link]
 
 ---
 

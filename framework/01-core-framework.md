@@ -32,6 +32,22 @@ The interesting use is not classification of known things — it is *discovering
 
 The **repeated pattern** is the signature of a hidden tool. When the same performance (auth, payment, product catalog, user management…) keeps recurring across actors, there is a tool waiting to be separated out of it.
 
+## The absolute definition of a tool
+
+The meaning of a tool comes from the fact that it is going to do something the user does not necessarily need to know *how*. It takes some input and gives some output:
+
+> **Input (material) → Tool → Output (result), with the user free not to know what happens inside.**
+
+Because the contract is just "input in, output out," anyone can build around the tool without understanding its internals. The tool's interface is the only thing that matters. This is why tools compose so well: the user treats a big integrated system as just another combination of these input→output boxes.
+
+Crucially, **the person who uses a tool to make a supply is the most probable person to spot its flaw** — because they feel the friction of using it in a real context, no matter how deeply the tool is integrated into a bigger system. This is why the flow of improvement naturally comes from performers, who are exactly the people the incentive model rewards.
+
+## Tool neutrality
+
+A tool is not dependent on the way it is used. A knife can murder or save a life in surgery; fire can burn or feed a city. The *action* someone performs with a tool has consequences — the tool itself does not.
+
+This dissolves the misgivings that plead "we should not make tools" or "open tools are dangerous." It also dissolves the objection that open and accessible tools must undermine law. Making a tool open does not make it wrongful; governing how people *act* with it is a separate concern — the performance layer — where society's rules properly live. We can open a tool fully and still govern its use, because the tool is neutral and the use is not.
+
 ## Why this matters economically
 
 Once you can separate tools from performances on demand, you can structure an entire economy around it:

@@ -79,3 +79,24 @@ A candidate layer is worth separating and opening when:
 3. It is **upward-lifting** — opening it improves everything above it.
 
 When these three hold, the layer is exactly the "new tool one must make to push this work further."
+
+## The usable → staging → better cycle
+
+A tool improves only through moments of change, and change makes it temporarily less usable:
+
+> The operation that makes a tool better comes from the moment it is *usable*. Then changes make a **staging state** — when it is not usable — until it becomes usable again, at a better result.
+
+This is the normal rhythm of a living tool layer: usable, then staging (incompatible, mid-change), then usable again but better. Understanding this prevents panic at the staging state. It is not a regression; it is the investment that yields the higher level.
+
+## Frictions generate new layers
+
+The deeper reason new tool layers keep emerging is a cycle driven by friction:
+
+1. We separate a concern → we make a trade-off → we solve the **biggest friction**.
+2. Solving it makes use cheaper → **usage rises**.
+3. Higher usage **surfaces the next friction** — one that was not the biggest before — which now becomes the biggest.
+4. We solve that one → usage rises again → a newer friction appears.
+
+Each round of solving the biggest friction opens the border to a higher level and the next frictions to solve. The growth is endless *because* frictions are created by higher usage. Diminishing returns is not a wall — it is a **signal** pointing at the next friction to solve, and thus the next layer to open.
+
+This is why the layer stack is not fixed: the friction cycle keeps producing the "next tool layer" — the exact new tool one must make to push the work further.

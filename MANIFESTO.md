@@ -45,6 +45,27 @@ Better tools → better performance → more income. Every performer therefore h
 - **Copyright and patents stop gating knowledge.** Anyone can learn how to make the DNA, the database, anything. Only *performance* is sold.
 - **Societies that win by owning tools lose that edge** and must instead win by performing. The rival advantage shifts from *having the tool* to *doing with it*.
 - **Human advancement accelerates.** Knowledge diffuses freely; effort goes into doing; the shared tool pool rises for everyone.
+- **The poverty trap breaks.** Tools are free, so the price of everything made with them falls — and the tool pool is shared by all nations, so the externality lifts every country at once, not one. A better MySQL library raises user-management tools everywhere, because tools are made from other tools and open tools let that chain flow outward continuously.
+
+## Diminishing returns is a signal, not a wall
+
+The standard story says technology hits diminishing returns and stalls. The truth you can observe in GNU/Linux — which ran brilliantly at first, then entered a trap when the *using side* outran the *tool quality* — is different:
+
+- Frictions are **caused by higher usage**. Solving the biggest friction makes use cheaper, usage rises, and a new friction surfaces. That cycle is growth.
+- Diminishing returns is the **compass** for the next friction, not the frontier you cannot cross.
+- With open tools, improving a low layer (the library under MySQL) pushes the diminishing-return frontier outward for the *whole chain* above it — including tools nobody touched.
+
+Economics grows faster through these correlations than anyone can predict, purely by letting the externality of open tools flow.
+
+## Tools are neutral
+
+A knife can murder or save a life. The tool is not the act. **The action someone performs with a tool has consequences; the tool itself is neutral.** We can open every tool without undermining law — because governing how people *act* (the performance) is a separate, kept concern. Opening the tool does not open the door to harm; it opens the door to who may build with it.
+
+## The absolute definition of a tool
+
+> Input → Tool → Output — and the user is free not to know what happens inside.
+
+That is all a tool is. Anyone can build around that contract, and anyone who uses a tool to make a supply is the one most likely to spot its flaw — so the people who should improve it are exactly the ones the incentive model rewards.
 
 ---
 
