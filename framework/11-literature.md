@@ -83,3 +83,7 @@ The doctrine claims openness makes monopoly fragile: the moment a monopoly is vi
 ## How to read this
 
 Adjacent to `framework/00-coverage-map.md` and `framework/10-glossary.md`, this is a support layer: it tells you *where each economic claim already in the docs stands in the literature*, and gives you the citation to argue with. It does not alter the doctrine's claims and does not add new ones.
+
+## Machine-readable companion
+
+Every work listed here is also available as a BibTeX entry in `framework/11-literature.bib` (18 entries, 14 DOI-verified + 4 books/report without DOIs). **Validation (2026-09-02):** all 14 DOIs confirmed resolving and metadata-consistent via the Crossref API (the DOI registry itself); duplicate check clean; entry syntax valid. Note: the bundled `validate_citations.py` reports false "DOI does not resolve" errors for most of these — its `HEAD` to `doi.org` is bot-blocked by publishers (HTTP 403) even though every DOI resolves correctly, so treat the Crossref API as authoritative, not that script's resolver.

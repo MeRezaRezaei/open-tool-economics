@@ -34,6 +34,7 @@ Complete (idea represented), including a complete causal loop:
 - `framework/09-fused-concerns.md` — full treatment of the hardest case: separating a tool fused into its performance.
 - `framework/10-glossary.md` — canonical definitions of core terms (the drift guard).
 - `framework/11-literature.md` — the doctrine's economic claims backed by DOI-verified scholarship (the standing/evidence layer).
+- `framework/11-literature.bib` — machine-readable BibTeX companion to the literature foundation (18 entries, verified).
 - `docs/plain-language.md` — the idea in plain words (the no-jargon front door).
 
 Representation hardening done so that a first-time reader is not misled:
