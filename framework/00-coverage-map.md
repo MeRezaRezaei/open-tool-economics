@@ -41,6 +41,6 @@ Three hardening gaps that the following tasks own:
 
 - **Gap B (Task 3):** Fused-concern problem (sections 8, 10, 11) is only a seed in `framework/03-separation-methodology.md` (lines 59–72), not a full treatment. The hardest sub-problem — when a tool is integrated into a performance and removing it degrades the performance — needs a self-contained method doc. → Task 3 creates `framework/09-fused-concerns.md`.
 
-- **Gap C (Tasks 5, 6):** No verification layer or shared glossary exists to stop term drift across the ~120 uses of "performance" and other core terms. Definitions are used consistently today, but there is no oracle document that a consistency checker can reference. → Task 5 creates `framework/10-glossary.md`; Task 6 runs the consistency gate.
+- **Gap C (Tasks 5, 6):** No verification layer or shared glossary exists to stop term drift across the ~120 uses of "performance" and other core terms. Definitions are used consistently today, but there is no oracle document that a consistency checker can reference. → Task 5 creates `framework/10-glossary.md`; Task 6 runs the consistency gate. Drift guard: see `framework/10-glossary.md` for canonical definitions.
 
 Sections 12, 13, 14 (Cross-Discipline Advantage, Vision/Role, Division of Labor) are flagged as `partial` — these are user-domain framing items, not representation gaps. They describe the author's role and do not require a dedicated framework doc.
