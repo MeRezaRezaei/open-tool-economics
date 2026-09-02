@@ -63,3 +63,22 @@ This is the last piece that makes the game and the puzzle complete:
 ## The one-line summary
 
 > Do not give people tools. Give people, openly and free, **the path to build the tool from their own stone and wood** — and the chain builds, values, and lifts by itself.
+
+## A clarifying objection: what about the very first rung?
+
+A natural worry (raised and resolved) is the "on-ramp": does a society that is a pure subsistence — with zero surplus labor — have any way to enter the chain, since both moves (free tool, free path) seem to need time and energy it does not have?
+
+**The objection is answered by noticing it imagines an isolated society.** Real societies are not a society sealed in the Amazon with no contact to the rest of the world. Every current society, in any part of the world, already receives externality from a frontier that is being pushed elsewhere:
+
+- The big societies are currently the **only** producers of that externality — the frontier is pushed by a few.
+- They have a direct interest in giving others the path and the tool, because after the change they can **use the surplus of others (arriving as free open source tools) to push their own frontier too**.
+- The diminishing-returns frontier is a problem at the **humanity level**, not the level of special people.
+- And the limitations are real arithmetic: to gain **double the speed of pushing the frontier in 40 years**, it is better to develop those societies, so they can **double the force and push the frontier for everyone in the world in 30 years**.
+
+So the chain is not stalled by subsistence: it is a shared, humanity-level compounding engine that every existing society is already inside. The path-raiser gives others the path not as charity but because it returns surplus to their own frontier push.
+
+## A question for readers
+
+If every real society already stands inside the world's pushed frontier, then the chain is not a ladder a lone subsistence society must climb alone — it is a compounding force that lifts everyone who is inside the shared pool. The question this raises for the reader:
+
+> If the frontier is a humanity-level problem and every society already receives the world's externality, does that dissolve the "on-ramp" worry entirely — or is there still a threshold below which a society cannot yet contribute its share of the force, and if so, what closes that last gap?

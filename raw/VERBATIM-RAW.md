@@ -117,6 +117,10 @@ Choosing to make your own private tools only means in a matter of time others wo
 
 This is the path that makes the game and puzzle complete. So the poverty trap, which is the reason for societies stopping from growing, would be solved. And our only responsibility is to let people know how it is possible.
 
+## On The On-Ramp (Not the Jungle Case)
+
+It is not the case that a society in the Amazon jungle that had no interaction with others is failing to enter. The current societies in any part of the world get externalities from the rest of the world — from the frontier that is being pushed. In fact, the big societies have an interest to give others those paths and tools, since currently they are the only ones that make externality. After the change, they can use the surplus of others, in the form of free open source tools, to push their frontier too — since the diminishing law frontier is a problem at the humanity level, not special people. And after all, limitations are real: for having double the speed for pushing the frontier in 40 years, it is better to develop those societies so they can double the force and make the frontier get pushed in 30 years for everyone in the world.
+
 ## A Note on Decisions
 
 Wherever my decision would not change my vision's result, you decide and do it yourself — the name, the form, the presentation, the steps. I only engage on questions with no working answer in the pragmatic world; the rest is your domain.
