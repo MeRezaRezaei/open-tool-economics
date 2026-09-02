@@ -35,6 +35,8 @@ Complete (idea represented), including a complete causal loop:
 - `framework/10-glossary.md` — canonical definitions of core terms (the drift guard).
 - `framework/11-literature.md` — the doctrine's economic claims backed by DOI-verified scholarship (the standing/evidence layer).
 - `framework/11-literature.bib` — machine-readable BibTeX companion to the literature foundation (18 entries, verified).
+- `separations/00-index.md` — the ledger: real tools found by applying the Separation Law (proof, not theory).
+- `CONTRIBUTING.md` — the surface readers use to act (pledge, propose a separation, improve the representation).
 - `docs/plain-language.md` — the idea in plain words (the no-jargon front door).
 
 Representation hardening done so that a first-time reader is not misled:
@@ -50,6 +52,18 @@ Representation hardening done so that a first-time reader is not misled:
 - **Front-door consistency:** passed — `docs/plain-language.md` and `MANIFESTO.md` tell the same story (same core claim, same money-gate idea).
 - **Literature foundation:** `framework/11-literature.md` added — maps the doctrine's economic claims (open-source incentives, why projects die, endogenous growth/diminishing-returns-as-signal, poverty traps, commons/free-riding, contestable monopoly) to DOI-verified scholarship. Verified via Crossref on 2026-09-02. Open-access status deliberately left undetermined (no API identity available); noted as a follow-up in the doc.
 - Sections 12, 13, 14 (Cross-Discipline Advantage, Vision/Role, Division of Labor) intentionally remain `partial` — user-domain framing, not a gap.
+
+## Audit (2026-09-02, second pass)
+
+- **Published:** hardened representation merged to master and pushed to origin; live site links resolve.
+- **Demonstration:** Separations Ledger applies the Separation Law to 5 recurring cases
+  (auth, user schema, logging, payments, notifications) — no new doctrine.
+- **Definition consistency:** passed — including the new ledger (tool/performance used
+  per the glossary).
+- **Front-door consistency:** passed — plain page, manifesto, and ledger agree.
+- **Founder-time cost:** the founder's only inputs remain the four open intellectual
+  questions (naming, scope, fused-concern correctness, pledge launch) that the
+  doctrine reserves exclusively for them.
 
 ## Open questions to put to your brain
 
