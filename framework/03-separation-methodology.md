@@ -58,15 +58,4 @@ Layer by layer, the same move repeats: find the pattern, separate it, open it, k
 
 ## The open question the method keeps pointing at
 
-The genuinely hard case, which you yourself named:
-
-> There is a lot of performance that depends on tools **integrated into** the performance.
-
-When a tool is fused into the performance, removing it damages the performance — so how do we separate it?
-
-The beginnings of the answer, from the same law:
-
-- If removing it *always and everywhere* degrades the performance, then it is not a standalone tool; it is part of that performance.
-- If the *same* integration repeats across many performances, then the **integration itself is the repeated pattern** — and *that* is the thing to extract and open: a layer that does the integrating.
-
-In other words, when you cannot pull the tool out, pull the *integration pattern* out instead, and make *that* the open layer.
+> The full treatment of this hardest case now lives in `framework/09-fused-concerns.md`.

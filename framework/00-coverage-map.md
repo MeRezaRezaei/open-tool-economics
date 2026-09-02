@@ -15,10 +15,10 @@ This table maps each of the 24 headed sections in `raw/VERBATIM-RAW.md` (the sin
 | 5 | Beating Closed Source | [04-game-theory.md](04-game-theory.md), [IDEA.md](../IDEA.md) | full |
 | 6 | The Idea (Not the Tools) | [IDEA.md](../IDEA.md), [MANIFESTO.md](../MANIFESTO.md) | full |
 | 7 | No Copyright or Patent | [IDEA.md](../IDEA.md), [MANIFESTO.md](../MANIFESTO.md), [07-the-full-cycle.md](07-the-full-cycle.md) | full |
-| 8 | The Layer Separation Problem | [01-core-framework.md](01-core-framework.md), [03-separation-methodology.md](03-separation-methodology.md), [IDEA.md](../IDEA.md), [MANIFESTO.md](../MANIFESTO.md) | full |
+| 8 | The Layer Separation Problem | [01-core-framework.md](01-core-framework.md), [03-separation-methodology.md](03-separation-methodology.md), [09-fused-concerns.md](09-fused-concerns.md), [IDEA.md](../IDEA.md), [MANIFESTO.md](../MANIFESTO.md) | full |
 | 9 | The Layer Model | [02-layer-model.md](02-layer-model.md), [IDEA.md](../IDEA.md), [MANIFESTO.md](../MANIFESTO.md) | full |
-| 10 | Mixed Concerns | [02-layer-model.md](02-layer-model.md), [03-separation-methodology.md](03-separation-methodology.md), [07-the-full-cycle.md](07-the-full-cycle.md), [MANIFESTO.md](../MANIFESTO.md) | full |
-| 11 | The Formula | [01-core-framework.md](01-core-framework.md), [03-separation-methodology.md](03-separation-methodology.md), [IDEA.md](../IDEA.md) | full |
+| 10 | Mixed Concerns | [02-layer-model.md](02-layer-model.md), [03-separation-methodology.md](03-separation-methodology.md), [07-the-full-cycle.md](07-the-full-cycle.md), [09-fused-concerns.md](09-fused-concerns.md), [MANIFESTO.md](../MANIFESTO.md) | full |
+| 11 | The Formula | [01-core-framework.md](01-core-framework.md), [03-separation-methodology.md](03-separation-methodology.md), [09-fused-concerns.md](09-fused-concerns.md), [IDEA.md](../IDEA.md) | full |
 | 12 | The Cross-Discipline Advantage | [MANIFESTO.md](../MANIFESTO.md) (lines 92–98) | partial |
 | 13 | My Vision and Role | [IDEA.md](../IDEA.md) (lines 159–162) | partial |
 | 14 | Division of Labor | [IDEA.md](../IDEA.md) (lines 159–162) | partial |
