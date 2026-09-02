@@ -1,5 +1,9 @@
 # Verbatim: The Economics of Open Tools
 
+> **Authoritative source**: The unpolished original words live in [`raw/VERBATIM-RAW.md`](raw/VERBATIM-RAW.md).
+> This copy is the spelling/grammar-corrected presentation. If this file and the raw file ever
+> differ, the raw file is the truth — this derived copy is only for reading, never for rebuilding the vision.
+
 ## Core Thesis
 
 We should separate tools from performance and expose tools for all people, keeping performance as the money gate. Those who gain profit from performing using those tools automatically have the interest to spend for making the tool advanced. This creates a game where the performers act for others' right of having better tools too.

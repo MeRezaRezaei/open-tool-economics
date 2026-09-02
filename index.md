@@ -24,7 +24,7 @@ Separate the tool from the performance. **Keep tools open to everyone; charge on
 
 - [The Manifesto](MANIFESTO.md) — the answer and how to act on it.
 - [Take the Pledge](PLEDGE.md) — *the tools I make stay open. I charge only for performance.*
-- [The Verbatim](VERBATIM.md) — the original idea, word for word.
+- [The Original Words](raw/VERBATIM-RAW.md) — the authoritative source, corrected only for spelling/grammar. This is the truth the vision is rebuilt from.
 - [The Idea](IDEA.md) — separation law, layers, incentives, vision.
 
 ## The first move

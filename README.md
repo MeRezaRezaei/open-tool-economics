@@ -6,10 +6,12 @@ This repo exists to put an answer into circulation. The answer, in one line:
 
 ## Read first
 
-1. **`MANIFESTO.md`** — the answer, why it works, and how to act on it.
+1. **`MANIFESTO.md`** — the answer, why it works, and how to act on it (the front-end presentation).
 2. **`PLEDGE.md`** — the public commitment you can take.
-3. **`VERBATIM.md`** — the original statement of the idea.
-4. **`framework/`** — the three laws in depth (Separation Law, Layer Principle, Incentive Model).
+3. **`raw/VERBATIM-RAW.md`** — the authoritative source words, corrected only for spelling/grammar. **This is the truth.** If you want to understand or rebuild the vision, read this, not the polished docs.
+4. **`framework/`** — the ideas in depth (Separation Law, Layer Principle, Incentive Model, Macro Economics).
+
+> **Note on faithfulness.** `/VERBATIM.md` is the spelling/grammar-corrected presentation of `raw/VERBATIM-RAW.md`. The polished documents (`MANIFESTO.md`, `IDEA.md`, `framework/`) are presentations derived for people to act on — they are not the source of truth. The raw words are.
 
 ## Act
 
