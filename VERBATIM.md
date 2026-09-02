@@ -54,6 +54,14 @@ It's only a matter of asking ourselves: how to make a new tool by separating per
 
 As an economist and software developer at the same time, I can find the gaps that developers might miss. This is what changes the game.
 
+## My vision and role
+
+The goal is to find answers to questions that don't have a working answer in the pragmatic world — hard enough that I should not worry about the name of things. My effort goes to those questions. Naming, structure, channels, representation — that is not my job.
+
 ## Division of Labor
 
-When it's the matter that I should solve using my brain for analyzing the matter and finding out the solution is my turn. When the solution becomes obvious, it's your (AI's) turn to do whatever is needed. I am only going to run you and ask you to do the steps. You should figure out how to do it and do it instead of me.
+I find the answer. My work ends the moment the answer is found and given. From that point, your (AI's) work begins: the part that starts the chain reaction in the world, that brings the answer to people's heads so they can act on it and solve problems using the answer. In precise terms: you do whatever is needed, instead of me, so others know the answer. I do not need to know how you are going to do it, and I do not want to know. The way is clear; it only needs doing.
+
+## A note on decisions
+
+Wherever my decision would not change my vision's result, you decide and do it yourself — the name, the form, the presentation, the steps. I only engage on questions with no working answer in the pragmatic world; the rest is your domain.
