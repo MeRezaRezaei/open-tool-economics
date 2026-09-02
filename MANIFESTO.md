@@ -25,6 +25,8 @@ This is the answer. Here is why it works, and here is how to act on it.
 
 That is how you detect a *tool* in anything: it is whatever is additive and removable — a reusable enabler. The thing it enables, the doing, is the *performance*. Probe any system this way and the tools separate themselves from the performances.
 
+*Concrete example: databases.* Every app needs a user-authentication schema — users table, roles, sessions, password resets. That pattern repeats everywhere, but it is currently baked inside each app, or locked inside a commercial tool. Apply the probe: remove the schema pattern → the app degrades; add a good schema → the app evolves. That is a tool. Separate it: release the schema pattern as an open, reusable layer. Now anyone can build on it, improve it, compete on what they *do* with it. The schema (tool) is free; the app built on it (performance) is what sells.
+
 **Law 2 — The Layer Principle (why nothing can be monopolized).**
 > The libraries that build MySQL are tools *to* MySQL. MySQL is a tool *to* developers. The next tool is the *schema*.
 
