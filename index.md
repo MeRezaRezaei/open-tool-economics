@@ -16,7 +16,7 @@ Separate the tool from the performance. **Keep tools open to everyone; charge on
 
 ## Why it matters
 
-- **Breaks the poverty trap** — free tools cut the price of everything; the shared tool pool lifts all nations at once.
+- **Breaks the poverty trap** — not by giving tools free, but by giving the open **path** to build tools from a society's own limits; the chain lifts all nations.
 - **Diminishing returns is a signal, not a wall** — frictions are created by higher usage; solving them is endless growth.
 - **Tools are neutral** — a knife can murder or save a life; the act has consequences, the tool does not.
 

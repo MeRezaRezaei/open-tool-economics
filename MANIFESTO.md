@@ -45,7 +45,19 @@ Better tools → better performance → more income. Every performer therefore h
 - **Copyright and patents stop gating knowledge.** Anyone can learn how to make the DNA, the database, anything. Only *performance* is sold.
 - **Societies that win by owning tools lose that edge** and must instead win by performing. The rival advantage shifts from *having the tool* to *doing with it*.
 - **Human advancement accelerates.** Knowledge diffuses freely; effort goes into doing; the shared tool pool rises for everyone.
-- **The poverty trap breaks.** Tools are free, so the price of everything made with them falls — and the tool pool is shared by all nations, so the externality lifts every country at once, not one. A better MySQL library raises user-management tools everywhere, because tools are made from other tools and open tools let that chain flow outward continuously.
+- **The poverty trap breaks — the right way.** A better MySQL library raises user-management tools everywhere, because tools are made from other tools and open tools let that chain flow outward. But simply handing free things does not lift societies (free food can end with more mouths and less food) — people only value a tool after building it themselves. So we open the **path**: give, free, the how-to to build the tool from a society's own stone and wood, and the chain builds and lifts by itself, and the society becomes a contributor too.
+
+## The missing key — the path, not just the tool
+
+The deepest single piece: **do not give the tool; give the making.** Use has levels you cannot skip. Free food to a society ends in more mouths and less food because it was free — people do not value what they did not earn, so they use it wrongly. This is a matter of correct value, not of right or wrong.
+
+> Give, openly and free, **the way to make the tool under the exact limitations that society faces.** They build it. Building it gives it correct value. The chain starts: tool 1 passes the limit → next year a more advanced tool → growth → and then they help push the frontier themselves.
+
+It is win-win, so no one is hurt by helping:
+- No one in the world can control all tools.
+- The tool is free to everyone, so enabling others costs you nothing.
+- The society you gave the path gains nothing by closing its tools, because others are doing world-class work pushing the same frontier.
+- A private-tool monopolist is fragile: a tradable tool's input and output are public, so the moment someone sees it and improves it, the monopoly collapses overnight. **Closing tools guarantees you are outrun; openness is the only stable long-term strategy.**
 
 ## Diminishing returns is a signal, not a wall
 

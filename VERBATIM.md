@@ -98,6 +98,22 @@ The whole idea has built up on it that frictions are the results of higher usage
 
 Tools are made from each other. If someone else makes the read lib of MySQL better, the whole chain gets benefit from it — so this has a big amount of externality. This means if somebody solves the MySQL lib, he is also letting the user manager tools to push the diminishing return frontier. And this lets economy grow faster than anyone can imagine. All of this happens by knowing the correlation of these works. The poverty line becomes even in long term just by using externality of free open source tools to indirectly push the diminishing return frontier.
 
+## The Missing Key — The Path, Not Just the Tool
+
+Only one piece of problem is missing and it is the key that lets the cycle complete. The idea of tools as the core for economic growth is not new. People have tested several things to societies that did not grow compared to the rest, and all of them failed. Here is the why and what to do.
+
+For example, wealthy countries give free food to African underdeveloped societies and they end up with new babies and less food, because it is free. But why does it become something like this? Because using tools has some levels you cannot prevent, and even you should not prevent them unless you lose.
+
+We are going to make the how to make that tool when you only have stone and wood manifest open source and free — but those people have to make it themselves. Unless they are not going to realize the price it took until having that tool, and they won't value it correctly. It is not a matter of right and wrong. It is a matter of correct value that lets people use the tool as its best suits.
+
+So the answer to solving this problem is just to provide the way how a tool will be made using the specific limitations that those societies face. They definitely can make that, and start the chain effect I explained. The chain effect lets them pass the limitations away, and next year they will have the next complicated tool, and it continues until they would grow fast and they realize how it worked, and they start to help pushing the frontier of the diminishing law.
+
+This is win-win, since no one in the world can control all tools, and anyone wants the next tool chain effect to happen. People won't get into conflicts that do not let others to have their tools, because the tool can cause them to lose what they worked for it — but the tool is free for everyone. And the society that you gave the path of having tools also won't benefit from keeping their tool development close, since others are doing a world class work to push those tools and push the frontier.
+
+Choosing to make your own private tools only means in a matter of time others would grasp you and cause you a bankruptcy, and the risk is real. This is the game behind it that does not let the system break in long term. Because if the private tool you have as a monopolist, whose input and output is clear to the world — unless you cannot sell it, if it is tradable, its material is obvious — can suddenly collapse only when someone else sees it, and by having the rest of the information about the tools, they make the improvement that your monopoly advantage collapses overnight because of this.
+
+This is the path that makes the game and puzzle complete. So the poverty trap, which is the reason for societies stopping from growing, would be solved. And our only responsibility is to let people know how it is possible.
+
 ## A note on decisions
 
 Wherever my decision would not change my vision's result, you decide and do it yourself — the name, the form, the presentation, the steps. I only engage on questions with no working answer in the pragmatic world; the rest is your domain.

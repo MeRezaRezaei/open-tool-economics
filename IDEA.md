@@ -115,6 +115,23 @@ The doctrine scales to the whole economy:
 
 ---
 
+## The missing key — give the path, not the tool
+
+The piece that closes the whole cycle — without which giving things free fails:
+
+> People only value a tool correctly after paying the price of building it themselves. Free food to a society can end in more mouths and less food, *because it was free*. This is not right or wrong — it is **correct value**.
+
+So the doctrine does not stop at "open the tool." It says: **give, openly and free, the how-to to build the tool under the exact limitations that society faces.** The society makes it → values it → the chain starts → it passes the limit → next year a more advanced tool → growth → then it pushes the frontier itself.
+
+It is win-win and stable:
+- No one can control all tools; the tool is free to everyone, so helping costs you nothing.
+- A society that got the path gains nothing by closing its tools, because others do world-class work pushing the same frontier.
+- A private-tool monopolist is fragile: a tradable tool's input/output is public, so the moment it is seen and improved, the monopoly collapses overnight. **Openness is the only stable long-term strategy.**
+
+Our only responsibility is to let people know it is possible.
+
+---
+
 ## The question that remains (the hard part)
 
 The trickiest problem you identified:
