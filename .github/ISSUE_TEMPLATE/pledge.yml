@@ -1,0 +1,24 @@
+---
+name: Take the Pledge
+about: Publicly commit: "The tools I make stay open. I charge only for performance."
+title: "Pledge: [your name / handle]"
+labels: pledge
+assignees: ''
+
+---
+
+## The commitment
+
+I confirm that I have read the Open Tools Doctrine ([MANIFESTO.md](../../MANIFESTO.md)) and take the Pledge:
+
+> **The tools I make stay open. I charge only for performance.**
+
+## Signatory
+
+- **Name / handle / organisation:**
+- **Date:**
+- **Where do you build tools?** (optional, so the community knows your surface)
+
+## Notes (optional)
+
+Anything about how you intend to apply the doctrine in your work.

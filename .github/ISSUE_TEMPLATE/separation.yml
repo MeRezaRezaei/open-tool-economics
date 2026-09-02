@@ -1,0 +1,28 @@
+---
+name: Propose a separation
+about: Apply the Separation Law to a real case — spot a tool hidden inside a performance.
+title: "Separation: [what you found]"
+labels: separation
+assignees: ''
+
+---
+
+## The repeated pattern
+
+What performance keeps recurring, across actors or domains?
+
+## The hidden tool
+
+What reusable thing is fused inside that performance? (Probe: *remove it → degrades; add it → evolves*.)
+
+## The proposed open layer
+
+What would the separated tool look like as its own open layer?
+
+## The performance gate
+
+After separation, what remains as the *paid* performance — the doing?
+
+## Why it helps
+
+Who benefits if this layer is opened, and how does it beat the closed alternative?
